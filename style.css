@@ -1,0 +1,63 @@
+.left{
+  float:left;
+  width:70px;
+  height:450px;
+  text-align:center;
+  backgraound-color:white;
+  box-shadow: 2px 2px 5px grey;
+}
+
+#url{
+  width:50%;
+margin-left:25%;
+
+}
+
+#upload{
+  display:inline-block;
+  padding:0.5rem;
+  cursor:pointer;
+  marrgine-top:1rem;
+  margin-left:37.5%;
+  background-color:white;
+  height:80px;
+  width:100px;
+  text-align:center;
+  padding-top:50px;
+  
+}
+
+#or{
+  margin-left:50%;
+}
+
+#back{
+    margin-left:5%;
+    margin-top:100%;
+}
+
+.size:hover{
+  background-color:skyblue;
+  color:black;
+}
+
+.right{
+  margin-left:80px;
+  background-color:#F8F8FF;
+  height:400px;
+}
+
+#head{
+  height:50px;
+  background-color:white;
+}
+
+.nav{
+  height:100px;
+ }
+
+a{
+  text-decoration:none;
+  color:gray;
+}
+
